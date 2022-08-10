@@ -3,5 +3,25 @@
       background-color: lightblue;
     }
   }
-  
-  
+
+  @media only screen and (min-width: 601px) {
+  body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/489/284/original/beautiful-purple-color-gradient-background-free-vector.jpg);
+    }
+    h1 {
+      color: rgb(255, 255, 255);
+    }
+  }
+#catgithub {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 40px;
+}
